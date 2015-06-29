@@ -87,7 +87,7 @@ class Hello(object):
             <a href="mygeartest2">mygeartest2</a><br />
             <a href="man">man(自動組立)</a><br />
             <a href="man2">man2(全組分工組立)</a><br />
-            以下為40223123(施翔智)的齒輪<br />
+            以下為40223142(詹翔安)的齒輪<br />
             <a href="gear1">1人齒輪嚙合</a><br />
             以下為40223123(施翔智)與40223142(詹祥安)的協同齒輪<br />
             <a href="gear2">2人齒輪嚙合</a><br />

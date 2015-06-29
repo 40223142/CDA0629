@@ -259,7 +259,7 @@ def index(self, guess=None):
         &lt;a href="mygeartest2"&gt;mygeartest2&lt;/a&gt;&lt;br /&gt;
         &lt;a href="man"&gt;man(自動組立)&lt;/a&gt;&lt;br /&gt;
         &lt;a href="man2"&gt;man2(全組分工組立)&lt;/a&gt;&lt;br /&gt;
-        以下為40223123(施翔智)的齒輪&lt;br /&gt;
+        以下為40223142(詹翔安)的齒輪&lt;br /&gt;
         &lt;a href="gear1"&gt;1人齒輪嚙合&lt;/a&gt;&lt;br /&gt;
         以下為40223123(施翔智)與40223142(詹祥安)的協同齒輪&lt;br /&gt;
         &lt;a href="gear2"&gt;2人齒輪嚙合&lt;/a&gt;&lt;br /&gt;
